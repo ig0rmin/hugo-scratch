@@ -1,0 +1,1 @@
+This is the example of a minimal working Hugo site from my blog post ["Introduction to Hugo"](https://minin.tech/posts/introduction-to-hugo/).
